@@ -444,18 +444,3 @@ loop do
 		gets
 	end
 end
-
-
-# insert(3)
-# a = get_products_per_type("drink")
-# puts a
-
-# a = [1,2,3,4,5,6,7]
-# puts a[0..a.size-3]
-
-# add_drink coffeee 1000 M cold cafeine sweet bitter italy
-# add_food mie 10000 vegan salty sour healthy indonesia
-# add_food bihun 22000 vegan salty sour healthy japan
-# add_food bakmie 15000 non-vegan sweet sour healthy china
-# add_food nasgor 20000 vegan salty sour healthy indonesia
-# add_food pizza 180000 non-vegan salty sour junk_food italy
